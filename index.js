@@ -28,7 +28,7 @@ SOFTWARE.
 class Imito {
   constructor(configuration) {
     this._configurations = [];
-    if(typeof configuration === 'string'){
+    if(typeof configuration === "string"){
       // TODO
     }
     else {
@@ -39,7 +39,7 @@ class Imito {
   }
  
   configure(configuration) {
-    if(typeof configuration === 'string'){
+    if(typeof configuration === "string"){
       // TODO
     }
     else {
@@ -50,7 +50,7 @@ class Imito {
   }
 
   reconfigure(configuration) {
-    if(typeof configuration === 'string'){
+    if(typeof configuration === "string"){
       // TODO
     }
     else {
