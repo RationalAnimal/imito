@@ -3,7 +3,7 @@
 # imito
 
 NOTE: Currently the eventual structure of the API of this module is being experimented on so please don't rely on it remaining the same from version to version until further note.
-This also explains the current absense of examples.  Hopefully I will nail down enough of this shortly so I'll be able to provide more documentation.
+This also explains the current absence of examples.  Hopefully I will nail down enough of this shortly so I'll be able to provide more documentation.
 
 This module will eventually provide functionality for transforming primitives and objects into other objects or primitivs while duplicating them.  There are many targeted use cases, so here are some common examples:
 
