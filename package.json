@@ -1,6 +1,6 @@
 {
   "name": "imito",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "copy and transform primitives and single or multiple objects",
   "main": "index.js",
   "scripts": {
